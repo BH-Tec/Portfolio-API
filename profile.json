@@ -9,26 +9,26 @@
     "hardSkills": [
       {
         "name": "CSS",
-        "logo": ""
+        "logo": "https://bh-tec.github.io/Portfolio-API/images/css.svg"
       },
       {
         "name": "HTML",
-        "logo": ""      },
+        "logo": "https://bh-tec.github.io/Portfolio-API/images/html.svg"      },
       {
         "name": "JavaScript",
-        "logo": ""      },
+        "logo": "https://bh-tec.github.io/Portfolio-API/images/js.svg"      },
       {
         "name": "Java",
-        "logo": ""      },
+        "logo": "https://bh-tec.github.io/Portfolio-API/images/java.svg"      },
       {
         "name": "Kotlin",
-        "logo": ""      },
+        "logo": "https://bh-tec.github.io/Portfolio-API/images/kotlin.svg"      },
       {
         "name": "Python",
-        "logo": ""      },
+        "logo": "https://bh-tec.github.io/Portfolio-API/images/python.svg"      },
         {
           "name": "TypeScript",
-          "logo": ""      }
+          "logo": "https://bh-tec.github.io/Portfolio-API/images/typescript.svg"      }
     ],
     "softSkills": [
       "Empatia",
