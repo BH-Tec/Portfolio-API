@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94.5" height="28" role="img" aria-label="KOTLIN"><title>KOTLIN</title><g shape-rendering="crispEdges"><rect width="94.5" height="28" fill="#7f52ff"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPktvdGxpbjwvdGl0bGU+PHBhdGggZD0iTTI0IDI0SDBWMGgyNEwxMiAxMloiLz48L3N2Zz4="/><text transform="scale(.1)" x="572.5" y="175" textLength="505" fill="#fff" font-weight="bold">KOTLIN</text></g></svg>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#242938"/>
+<path d="M218 218H38V38H218L128 128L218 218Z" fill="url(#paint0_linear_7_120)"/>
+<defs>
+<linearGradient id="paint0_linear_7_120" x1="218" y1="38" x2="38" y2="218" gradientUnits="userSpaceOnUse">
+<stop offset="0.00343514" stop-color="#E44857"/>
+<stop offset="0.4689" stop-color="#C711E1"/>
+<stop offset="1" stop-color="#7F52FF"/>
+</linearGradient>
+</defs>
+</svg>
